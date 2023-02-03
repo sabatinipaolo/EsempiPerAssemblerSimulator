@@ -10,5 +10,6 @@
     MOV C , A 
 
     JMP 18
+    ;ciao 
 
 
